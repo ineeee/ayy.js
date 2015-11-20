@@ -1,6 +1,7 @@
-# ayylmao.js
-Very small javascript library with a bad name.
+# ayy.js
+Small javascript library (with a bad name).
+![ayylmao](https://i.imgur.com/Y5ycwfM.jpg)
 
 #### Browser support
-`1.x.x` supports any modern browser, but it can work on IE5 if query selectors aren't used.
-`2.x.x` works on any version of Google Chrome, Firefox, IE9 and up. See `ayylmao-2.js` for details.
+`1.x.x` works on any decent browser, but it can run all the way back to IE5.
+`2.x.x` works on Chrome, IE9 (and up), Firefox, or any modern browser. See `ayy2.js` for details.
