@@ -1,5 +1,5 @@
 /*
- * ayylmao.js 1.2.2
+ * ayy.js 1.2.2
  * by inex
  */
 
