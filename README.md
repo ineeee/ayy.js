@@ -1,5 +1,5 @@
 # ayy.js
-Small javascript library (with a bad name).
+Small javascript library with a bad name.
 ![ayylmao](https://i.imgur.com/Y5ycwfM.jpg)
 
 #### Browser support
