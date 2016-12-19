@@ -1,7 +1,7 @@
 # ayy.js
 Small javascript library with a bad name.
 
-![ayylmao](https://i.imgur.com/Y5ycwfM.jpg)
+![ayylmao](http://i.imgur.com/Y6eFiMI.gif)
 
 #### Browser support
 `1.x.x` works on any decent browser, but it can run all the way back to IE5.
