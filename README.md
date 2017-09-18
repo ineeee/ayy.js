@@ -1,10 +1,10 @@
 # ayy.js
-Selector library in ~600 bytes
+Selector library in 233 bytes (minified + gzip)
 
 ![ayylmao](http://i.imgur.com/Y6eFiMI.gif)
 
 ### Browser support
-Version 1.x works on anything, even IE5 for some reason. Version 2 works on IE9 (and up), or any modern browser. See `ayy2.js` for details, or [caniuse](http://caniuse.com/#search=querySelector).
+Due to [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector#Browser_Compatibility) the min version is IE 8, Chrome 1 or Firefox 3.5.
 
 ### Get it
 Download `ayy2.min.js` or use a cdn:
