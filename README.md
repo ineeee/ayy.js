@@ -7,10 +7,7 @@ Selector library in 233 bytes (minified + gzip)
 Due to [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector#Browser_Compatibility) the min version is IE 8, Chrome 1 or Firefox 3.5.
 
 ### Get it
-Download `ayy2.min.js` or use a cdn:
-```
-https://cdn.rawgit.com/inexist3nce/ayy.js/master/ayy2.min.js
-```
+Download `ayy2.min.js`.
 
 ### Example
 Given the following document:
